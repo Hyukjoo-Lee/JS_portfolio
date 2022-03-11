@@ -1,0 +1,56 @@
+{
+  "projects":
+  [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "This web application is to generate random positive quotes.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://hyukjoo-lee.github.io/Project1.github.io/",
+      "github_link": "https://github.com/Hyukjoo-Lee/Project1.github.io",
+      "image_urls": ["/static/images/project1_1.png", "/static/images/project1_2.png", "/static/images/project1_3.png", "/static/images/project1_4.png"]
+    },
+
+    {
+      "id": 1,
+      "project_name": "Pagination Web Application",
+      "description": "This web application is for paging implementation practice.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://hyukjoo-lee.github.io/JS_Project2.github.io/",
+      "github_link": "https://github.com/Hyukjoo-Lee/JS_Project2.github.io",
+      "image_urls": ["/static/images/project2_1.png", "/static/images/project2_2.png", "/static/images/project2_3.png", "/static/images/project2_4.png"]
+    },
+
+    {
+      "id": 2,
+      "project_name": "Fetch API Exercise Lab",
+      "description": "This web application is for Fetch API practice lab.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://hyukjoo-lee.github.io/Fetch_API_Exercise.github.io/",
+      "github_link": "https://github.com/Hyukjoo-Lee/Fetch_API_Exercise.github.io",
+      "image_urls": ["/static/images/project3_1.png", "/static/images/project3_2.png"]
+    },
+    
+    {
+      "id": 3,
+      "project_name": "BMI Calculator",
+      "description": "This web application is for calculating the user's BMI.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "Express Server", "Ejs View Engine"],
+      "live_link": "https://jaydon-bmi-calculator.herokuapp.com/",
+      "github_link": "https://github.com/Hyukjoo-Lee/JS_Project3",
+      "image_urls": ["/static/images/project4_1.png", "/static/images/project4_2.png", "/static/images/project4_3.png"]
+    },
+
+    {
+      "id": 4,
+      "project_name": "Employee Directory Request API Project",
+      "description": "This Web application is to show employee's information cards.",
+      "technologies": ["HTML", "CSS", "JavaScript", "AJAX"],
+      "live_link": "https://hyukjoo-lee.github.io/Hyukjoo-Lee-Employee-Directory.github.io/",
+      "github_link": "https://github.com/Hyukjoo-Lee/Hyukjoo-Lee-Employee-Directory.github.io",
+      "image_urls": ["/static/images/project5_1.png", "/static/images/project5_2.png", "/static/images/project5_3.png"]
+    }
+
+  ]
+}
+ 
